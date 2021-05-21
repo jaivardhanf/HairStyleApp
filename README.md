@@ -1,6 +1,9 @@
 # my_app
+A basic hairstyle survey app that asked user 3 questions about their hair and makes a certain score based on their preferences.
 
-A new Flutter project.
+Ideas for adding functionality:
+
+-Recommend a product or a haircut based on the answers inputted. 
 
 ## Getting Started
 
